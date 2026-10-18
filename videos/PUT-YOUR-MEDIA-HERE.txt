@@ -1,0 +1,1 @@
+Copy your Activity 2 video (video.mp4) and audio (audio.mp3) here or edit the file names in index.html. Delete this file afterwards.
